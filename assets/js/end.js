@@ -33,4 +33,4 @@ saveHighScore = e => {
     window.location.assign('/')
 
     
-}
+} 
