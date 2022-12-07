@@ -60,7 +60,11 @@ getNewQuestion = () => {
     if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score)
 
+<<<<<<< HEAD
         return window.location.assign('./end.html')
+=======
+        return window.location.assign('/assets/html/end.html')
+>>>>>>> refs/remotes/origin/main
     }
 
     questionCounter++
