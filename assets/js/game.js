@@ -63,7 +63,7 @@ getNewQuestion = () => {
 <<<<<<< HEAD
         return window.location.assign('./end.html')
 =======
-        return window.location.assign('/assets/html/end.html')
+        return window.location.assign('/end.html')
 >>>>>>> refs/remotes/origin/main
     }
 
